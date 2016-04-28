@@ -1,0 +1,2 @@
+pyscopg2==2.6.1
+SQLAlchemy==1.0.12
